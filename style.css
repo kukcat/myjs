@@ -1,0 +1,29 @@
+body {
+  background-image: radial-gradient(rgb(168, 255, 255), rgb(240, 255, 172));
+  padding: 15px;
+}
+.h1 {
+  text-align: center;
+}
+.table {
+  margin: auto;
+}
+.td {
+  border: 1px solid transparent;
+}
+.td:hover {
+  transition: 0.3s;
+  background: rgb(72, 72, 75);
+}
+.p {
+  font-size: 25px;
+  color: black;
+}
+.iron {
+  height: 500px;
+  width: 250px;
+}
+.li {
+  font-size: 20px;
+  color: black;
+}
